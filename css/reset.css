@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*브라우저 기본 스타일 무효화*/
+*{
+	margin:0; padding:0;}
+body{
+	font-family: 'Noto Sans KR', sans-serif, "돋움", Dotum;
+	font-size:14px; line-height:20px; color:#121212;}
+ul, ol{
+	list-style:none;}
+h1, h2, h3, h4, h5, h6{
+	font-weight:500;}
+img{
+	vertical-align:top;}
+a{
+	text-decoration:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
